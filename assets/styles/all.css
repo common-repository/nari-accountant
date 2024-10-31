@@ -1,0 +1,5 @@
+#adminmenu li.menu-top.toplevel_page_nari100 .wp-menu-image img,
+#adminmenu li.toplevel_page_nari100.wp-has-current-submenu .wp-menu-image img {
+    padding: 5px 0px 0px 0px;
+    margin-left: -1px;
+}

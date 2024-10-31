@@ -1,0 +1,487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nari Accountant\n"
+"POT-Creation-Date: 2015-12-16 19:31+0100\n"
+"PO-Revision-Date: 2015-12-16 19:33+0100\n"
+"Last-Translator: Seyed Shahrokh Nabavi <info@nabavi.nl>\n"
+"Language-Team: Seyed Shahrokh Nabavi <info@nabavi.nl>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\Web\\WebApplication\\wordpress\\wp-content"
+"\\plugins\\nari-accountant\n"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/nari-accountant.php:53
+msgid "Accounts"
+msgstr "حساب ها"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/nari-accountant.php:54
+msgid "Definitions"
+msgstr "تعاریف اولیه"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/nari-accountant.php:55
+msgid "Transactions"
+msgstr "تــراکنش ها"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/nari-accountant.php:56
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/nari-accountant.php:57
+msgid "Reports"
+msgstr "گزارشات"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/nari-accountant.php:58
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:219
+msgid "Expense Categories"
+msgstr "گروه های پرداختی"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/nari-accountant.php:59
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:227
+msgid "Income Categories"
+msgstr "گروه های دریافتی"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/nari-accountant.php:60
+msgid "Expense"
+msgstr "پرداخت"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/nari-accountant.php:61
+msgid "Income"
+msgstr "دریافت"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/functions.php:7
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/functions.php:8
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/dashboard.php:3
+msgid "Nari Accountant"
+msgstr "حسابدار ناری"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/functions.php:115
+msgid "Nari Accountant Notification"
+msgstr "سیستم اطلاع رسانی [حسابدار ناری]"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/backup.php:147
+msgid "Backup successfully created."
+msgstr "فایل پشتیبانی از سند های مالی سیستم حسابداری ایجاد شد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/backup.php:250
+msgid "Backup successfully restored."
+msgstr "فایل پشتیبانی از سند های مالی سیستم حسابداری بازگردانی شد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/reports.php:48
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/settings.php:90
+msgid "Options successfully updated."
+msgstr "تنظیمات با موفقیت به انجام ذخیره شد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/settings.php:101
+msgid "General"
+msgstr "عمومی"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/settings.php:106
+msgid "Backup & Restore"
+msgstr "تهیه فایل پشتیبانی"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/accounts.php:120
+msgid "Account title length error"
+msgstr "تعداد حروف عنوان حساب کمتر از حد مجاز است."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/accounts.php:128
+msgid "Account already exist"
+msgstr "حسابی با این عنوان قبلا وجود دارد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/accounts.php:147
+msgid "Account edited successfully"
+msgstr "حساب با موفقیت ویرایش شد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/accounts.php:173
+msgid "[System] Initialize account."
+msgstr "[عملیات سیستمی] افتتاح حساب در سیستم"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/accounts.php:184
+msgid "Account created successfully"
+msgstr "حساب با موفقیت ثبت  شد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/accounts.php:188
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:184
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:308
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:455
+msgid "<strong>Error</strong><br/>"
+msgstr "<strong>خــــطا</strong><br/>"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/accounts.php:219
+msgid "Accounts Balances"
+msgstr "موجودی حساب ها"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/accounts.php:224
+msgid "Add New Account"
+msgstr "ثبت حساب جدید"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/accounts.php:229
+msgid "Manage Account"
+msgstr "مدیریت حساب ها"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:136
+msgid "Record name length error"
+msgstr "تعداد حروف عنوان داده ارسالی کمتر از حد مجاز است."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:141
+msgid "This name already exist"
+msgstr "این عنوان قیلا در سیستم ثبت شده."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:146
+msgid "You put invalid data type."
+msgstr "این نوع داده صحیحی که شما وارد کردید نادرست است."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:162
+msgid "Record edited successfully"
+msgstr "رکـــورد با موفقیت ویرایش شد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:180
+msgid "Record created successfully"
+msgstr "رکــــورد با موفقیت ثبت شد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:221
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:229
+msgid "Add a new category"
+msgstr "ثبت گروه جدید"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:222
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:230
+msgid "List of all categories"
+msgstr "لیست همه گروه ها"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:235
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:10
+msgid "Payee"
+msgstr "طلبکار"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:237
+msgid "Add a new payee"
+msgstr "ثبت طلبکار جدید"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:238
+msgid "List of all payees"
+msgstr "لیست همه طلبکاران"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:243
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:9
+msgid "Payer"
+msgstr "بدهکار"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:245
+msgid "Add a new payer"
+msgstr "ثبت بدهکار جدید"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:246
+msgid "List of all payers"
+msgstr "لیست همه بدهکاران"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:251
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:97
+msgid "Payment Method"
+msgstr "روش پرداخت"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:253
+msgid "Add a new method"
+msgstr "ثبت روش پرداخت"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/definitions.php:254
+msgid "List of all methods"
+msgstr "لیست همه روش های پرداختی"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:164
+msgid "Please enter text for description."
+msgstr "لطفا توضیخاتی برای این سند وارد کنید."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:169
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:438
+msgid "Data wrong."
+msgstr "داده های نادرست برای سیستم ارسال شده."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:173
+msgid "The format of amount is not correct."
+msgstr "مبلغ وارد شده صحیح درج نشده لطفا مجدد سعی کنید."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:177
+msgid "The format of date is not correct."
+msgstr "تاریخ را صحیح وارد کنید."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:182
+msgid "Please enter the first occurrence date in future."
+msgstr "لطفا اولین تاریخ رخداد تراکنش تکرار شونده را در آیند وارد کنید."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:184
+msgid "Please enter number of repetitions."
+msgstr "لطفا تعداد تکرارهای رخداد تراکنش را وارد کنید."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:261
+msgid "Transaction edited successfully"
+msgstr "تراکنش با موفقیت ویرایش شد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:304
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:451
+msgid "Transaction created successfully"
+msgstr "تراکنش با موفقیت ثبت شد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:330
+msgid "Add Expense"
+msgstr "ثبت سند پرداختی"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:335
+msgid "Add Deposit"
+msgstr "ثبت سند دریافتی"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:340
+msgid "Transfer"
+msgstr "انتقال پول"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:345
+msgid "View Transactions"
+msgstr "لیست تــراکنش ها"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:350
+msgid "Repeated Transactions"
+msgstr "تــراکنش های تکرار شونده"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:435
+msgid "You can not transfer amount to same account."
+msgstr "شما نمی توانید مبلغی را از یک حساب به همان حساب منتقل کنید."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/classes/db/transactions.php:453
+msgid "Transfer is not successfully done."
+msgstr "تراکنش با موفقیت به انجام نرسید."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/alert.php:7
+msgid "Confirm Box"
+msgstr "تایید عملیات"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/alert.php:10
+msgid "Are you sure to delete \"<b></b>\"?"
+msgstr "آیا مطمن به حذف \"<b></b>\" هستید؟"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/alert.php:13
+msgid "NO, That was a mistake"
+msgstr "خیر، اشتباهی انتخاب کردم"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/alert.php:14
+msgid "YES, Please"
+msgstr "بله، لطفا"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/pages.php:28
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/reports.php:6
+msgid "Please wait..."
+msgstr "لطفا صبر کنید..."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/addfrm.php:3
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/balancelst.php:5
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/managelst.php:2
+msgid "Account Name"
+msgstr "نام حساب"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/addfrm.php:7
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/balancelst.php:6
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/managelst.php:3
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:114
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:13
+msgid "Description"
+msgstr "توضیـــحات"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/addfrm.php:12
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/balancelst.php:7
+msgid "Init. Balance"
+msgstr "موجودی اولیه"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/addfrm.php:16
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/definitions/addfrm.php:7
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/general.php:20
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:121
+msgid "Submit"
+msgstr "ذخیره اطلاعات"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/addfrm.php:18
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/definitions/addfrm.php:9
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:4
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:123
+msgid "Cancel"
+msgstr "انصراف"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/balancelst.php:8
+msgid "Current Balance"
+msgstr "موجودی فعلی"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/balancelst.php:23
+msgid "Total"
+msgstr "مجموع"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/balancelst.php:28
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/managelst.php:20
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/definitions/managelst.php:18
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:70
+msgid "The list is empty"
+msgstr "لیست برای نمایش خالی است."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/managelst.php:4
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/definitions/managelst.php:3
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:17
+msgid "Manage"
+msgstr "مدیریت"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/managelst.php:13
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/definitions/managelst.php:11
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:63
+msgid "Edit"
+msgstr "ویرایش"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/accounts/managelst.php:14
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/definitions/managelst.php:12
+msgid "Delete"
+msgstr "حذف"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/definitions/addfrm.php:4
+#, php-format
+msgid "Name [%s]"
+msgstr "عنــــوان [%s]"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/definitions/managelst.php:2
+msgid "Name"
+msgstr "عنــــوان"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/backup.php:13
+msgid "Create Backup"
+msgstr "ایــــجاد پشتیبان"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/backup.php:22
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:58
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:4
+msgid "Date"
+msgstr "تاریخ"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/backup.php:23
+msgid "Backup File"
+msgstr "فایل پشتیبان"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/backup.php:24
+msgid "Size"
+msgstr "سایز فایل"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/backup.php:43
+msgid "Download"
+msgstr "دانـــــــلود"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/backup.php:49
+msgid "Remove Backup"
+msgstr "حذف پشتیبان"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/backup.php:54
+msgid "Restore Backup"
+msgstr "بازگردانی پشتیبان"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/backup.php:70
+msgid "No Backups Created!"
+msgstr "هیـــــچ فایل پشتیبانی وجود ندارد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/general.php:3
+msgid "Decimal Point"
+msgstr "ممیز شناور"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/general.php:7
+msgid "Thousands Separator"
+msgstr "جداکننده هزارگان"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/general.php:11
+msgid "Currency Code"
+msgstr "نماد واحد پولی"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/general.php:13
+msgid "Keep it blank if you do not want to show currency code"
+msgstr "اگر تمایلی به نمایش واحد پولی ندارید این فیلد را خالی بگذارید."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/general.php:16
+msgid "Balance Limit Exceed"
+msgstr "حداقل موجودی حساب"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/settings/general.php:18
+msgid ""
+"If your account balance go lower than this amount, system will show you "
+"alarm."
+msgstr ""
+"اگر موجودی حساب شما از این مقدار کمتر شد سیستم بطور اتوماتیک پیغام هشدار را "
+"برای شما نمایش میدهد."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:3
+msgid "In this version you can not edit transfer transaction."
+msgstr "در این نسخه شما قادر به ویرایش تراکنش های انتقالی بین حسابهاتان نیستید"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:10
+msgid "From Account"
+msgstr "از حساب"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:20
+msgid "To Account"
+msgstr "به حساب"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:23
+msgid "Choose one account please."
+msgstr "لطفا یک حساب را انتخاب کنید."
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:32
+msgid "Frequency"
+msgstr "بازه هر تکرار"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:49
+msgid "Repetitions"
+msgstr "تعداد رخداد"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:57
+msgid "The first occurrence date"
+msgstr "اولین تاریخ رخداد تکرار در آیند"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:70
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:8
+msgid "Amount"
+msgstr "مقدار"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:87
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:7
+msgid "Category"
+msgstr "گروه"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:106
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:12
+msgid "Ref#"
+msgstr "شماره ارجاع"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/addfrm.php:109
+msgid "e.g. Transaction ID, Check No."
+msgstr "به عنوان مثال شناسه تراکنش ویا شماره چک"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:5
+msgid "Account"
+msgstr "از حساب"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:6
+msgid "Type"
+msgstr "نوع تراکنش"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:11
+msgid "Method"
+msgstr "روش پرداخت"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:14
+msgid "Dr."
+msgstr "کسر"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:15
+msgid "Cr."
+msgstr "جمع"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:16
+msgid "Balance"
+msgstr "موجودی"
+
+#: D:\Web\WebApplication\wordpress\wp-content\plugins\nari-accountant/includes/templates/transactions/managelst.php:26
+msgid "Prove"
+msgstr "تثبیت"

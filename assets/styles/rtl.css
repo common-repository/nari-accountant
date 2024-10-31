@@ -1,0 +1,29 @@
+/*!
+ * Nari Accountant
+ * version : 1.0.2
+ */
+body.rtl table > tbody > tr > td.sum {
+  text-align: left;
+  border-left: none;
+}
+body.rtl .form-horizontal .control-label {
+  text-align: left;
+  float: right;
+}
+body.rtl .input-group-addon {
+  border-radius: 0px 4px 4px 0px;
+  border-right: 1px solid #ccc;
+  border-left: 0px;
+}
+
+body.rtl .input-group .form-control:last-child {
+  border-radius: 4px 0px 0px 4px;
+}
+body.rtl .table .sum-cell {
+  text-align: left;
+}
+
+@media (min-width: 768px){
+  #wrapper {padding-right: 225px; padding-left: 0;}
+  .side-nav{right: 0;left: auto;}
+}
